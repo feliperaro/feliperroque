@@ -17,14 +17,8 @@ Here are some ideas to get you started:
 
 🤖 Skills
 + Web Development
-+ Bot Maker
++ RPA Developer
 + REST APIs
-+ Python
-+ JavaScript
-+ TypeScript
-+ React.js 
-+ Node.js
-+ React Native
 + SQL & NoSQL databases
 + Cloud
 
@@ -36,3 +30,4 @@ Here are some ideas to get you started:
 + MySQL
 + PostgreSQL
 + AWS
+
