@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 🇧🇷
 
 <!--
 **FehRoque/FehRoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤖 Skills
++ Web Development
++ Bot Maker
++ REST APIs
++ Python
++ JavaScript
++ TypeScript
++ React.js 
++ Node.js
++ React Native
++ SQL & NoSQL databases
++ Cloud
+
+🖥️ I’m currently working with
++ Django 
++ Flask
++ React.js
++ Node.js
++ MySQL
++ PostgreSQL
++ AWS
