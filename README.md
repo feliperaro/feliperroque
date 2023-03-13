@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 + Flask
 + React.js
 + Node.js
++ Express
 + MySQL
-+ PostgreSQL
++ MongoDB
 + AWS
 
