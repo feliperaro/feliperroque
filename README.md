@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 🤖 Skills
-+ Web Development
 + RPA Developer
++ Web Development
 + REST APIs
 + SQL & NoSQL databases
-+ Cloud
++ Cloud & DevOps
 
 🖥️ I’m currently working with
 + Django 
