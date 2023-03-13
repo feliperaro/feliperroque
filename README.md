@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🤖 Skills
 + RPA Developer
-+ Web Development
++ Web & Mobile Development
 + REST APIs
 + SQL & NoSQL databases
 + Cloud & DevOps
