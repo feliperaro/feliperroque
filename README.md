@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
+
 🤖 Skills
 + RPA Developer
 + Web & Mobile Development
