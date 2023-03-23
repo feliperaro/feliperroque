@@ -22,6 +22,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
 
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FehRoque&show_icons=true&theme=dark)]
 
 <!--
 **FehRoque/FehRoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
