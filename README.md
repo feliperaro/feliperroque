@@ -10,14 +10,18 @@
 
 
 🖥️ I’m currently working with
++ AWS
++ Python
 + Django 
 + Flask
 + React.js
++ React Native
 + Node.js
 + Express
 + MySQL
 + MongoDB
-+ AWS
++ PostgreSQL
++ 
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
