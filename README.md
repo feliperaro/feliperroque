@@ -16,6 +16,7 @@
 + Flask
 + React.js
 + React Native
++ TypeScript
 + Node.js
 + Express
 + MySQL
