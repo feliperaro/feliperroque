@@ -22,7 +22,6 @@
 + MySQL
 + MongoDB
 + PostgreSQL
-+ 
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
