@@ -2,25 +2,23 @@
 
 
 🤖 Skills
-+ RPA Developer
++ RPA
 + Web & Mobile Development
-+ REST APIs
 + SQL & NoSQL databases
 + Cloud & DevOps
 
-
 🖥️ I’m currently working with
 + AWS
++ Python
 + Django 
 + Express
 + Firebase
 + Flask
++ Next.js
 + Node.js
 + MongoDB
 + MySQL
 + PostgreSQL
-+ Python
-+ React.js
 + React Native
 + TypeScript
 
