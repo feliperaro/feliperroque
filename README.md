@@ -2,10 +2,10 @@
 
 
 🤖 Skills
-+ Cloud & DevOps
-+ RPA
 + Web & Mobile Development
++ RPA
 + SQL & NoSQL databases
++ Cloud & DevOps
 
 
 🖥️ I’m currently working with
