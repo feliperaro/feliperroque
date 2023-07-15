@@ -2,8 +2,8 @@
 
 
 🤖 Skills
++ RPA (Robotic Process Automation)
 + Web & Mobile Development
-+ RPA
 + SQL & NoSQL databases
 + Cloud & DevOps
 
