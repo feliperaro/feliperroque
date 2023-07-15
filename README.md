@@ -11,17 +11,20 @@
 🖥️ I’m currently working with
 + AWS
 + Python
-+ Django 
-+ Express
-+ Firebase
++ Django
 + Flask
-+ Next.js
++ FastAPI
++ JavaScript
++ TypeScript
++ React Native
++ React.js
 + Node.js
++ Express
++ Next.js
++ Firebase
 + MongoDB
 + MySQL
 + PostgreSQL
-+ React Native
-+ TypeScript
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
