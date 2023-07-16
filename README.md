@@ -26,7 +26,7 @@
 + MySQL
 + PostgreSQL
 
-
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FehRoque&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
 
 
