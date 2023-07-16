@@ -26,7 +26,6 @@
 + MySQL
 + PostgreSQL
 
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FehRoque&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
 
 
@@ -34,6 +33,7 @@
 **FehRoque/FehRoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FehRoque&show_icons=true&theme=dark)]
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FehRoque&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
