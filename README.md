@@ -2,25 +2,26 @@
 
 
 🤖 Skills
-+ RPA (Robotic Process Automation)
-+ Web & Mobile Development
++ Full Stack Web & Mobile Development
 + SQL & NoSQL databases
 + Cloud & DevOps
++ RPA (Robotic Process Automation) using Python
 
 
 🖥️ I’m currently working with
 + AWS
++ Docker
 + Python
 + Django
 + Flask
 + FastAPI
 + JavaScript
-+ TypeScript
-+ React Native
 + React.js
++ Next.js
++ React Native
++ TypeScript
 + Node.js
 + Express
-+ Next.js
 + Firebase
 + MongoDB
 + MySQL
