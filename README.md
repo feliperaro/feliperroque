@@ -10,6 +10,7 @@
 
 🖥️ I’m currently working with
 + Web Development using HTML, CSS, JS and React.js.
++ Git and GitHub of course :D
 + Programming Languages like Python, JavaScript, TypeScript, PHP, Java and Go.
 + Robotic Process Automation (RPA) using Python and currently working with Robocorp.
 + I like these Python frameworks: Django, Flask and FastAPI.
@@ -17,13 +18,13 @@
 + PHP and Laravel are technologies that I hope building something soon!
 + I also like Node.js and Express.js.
 + I already worked in projects using Java and Spring.
-+ I build back-end using Go, with GORM, Fiber or Gin. 
-+ I'm using SQL and NoSQL databases like PostgreSQL, MySQL and MongoDB. I used Oracle DB before.
-+ I'm working and learning Cloud Computing and DevOps using web services like AWS, Azure and Google Firebase
-+ I'm studying and trying to use Docker in my projects
++ Using Go language I worked with GORM, Fiber and Gin. 
++ I'm working with SQL and NoSQL databases like PostgreSQL, MySQL and MongoDB. I had used Oracle DB before.
++ I'm working and learning Cloud Computing and DevOps using web services like AWS, Azure and Google Firebase.
++ I'm studying and trying to use Docker containers in my projects. I like that!
 + I'm working in personal projects like developing my own website that will be available soon!
-+ Git and GitHub of course :D
-+  Looking for more... 
+
++ And I'm looking for more... 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
 
