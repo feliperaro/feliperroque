@@ -14,9 +14,9 @@
 + Programming Languages like Python, JavaScript, TypeScript, PHP, Java and Go.
 + Robotic Process Automation (RPA) using Python and currently working with Robocorp.
 + I like these Python frameworks: Django, Flask and FastAPI.
-+ I'm always learning about React.js and Next.js, React Native with Expo. Using JavaScript or TypeScript.
-+ PHP and Laravel are technologies that I hope building something soon!
++ I'm learning about React.js and Next.js, React Native with Expo. Using JavaScript or TypeScript.
 + I also like Node.js and Express.js.
++ PHP and Laravel are technologies that I hope building something soon!
 + I already worked in projects using Java and Spring.
 + Using Go language I worked with GORM, Fiber and Gin. 
 + I'm working with SQL and NoSQL databases like PostgreSQL, MySQL and MongoDB. I had used Oracle DB before.
