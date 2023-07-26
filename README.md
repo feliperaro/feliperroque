@@ -2,31 +2,31 @@
 
 
 🤖 Skills
-+ Full Stack Web & Mobile Development
++ Full Stack Web & Mobile Development (Back-end Heavy)
 + SQL & NoSQL databases
 + Cloud & DevOps
 + RPA (Robotic Process Automation) using Python
 
 
 🖥️ I’m currently working with
-+ AWS
-+ Docker
 + Python
 + Django
 + Flask
 + FastAPI
 + JavaScript
++ TypeScript
 + React.js
 + Next.js
 + React Native
-+ TypeScript
-+ Node.js
-+ Express
 + Firebase
++ Node.js
++ Express.js
 + MongoDB
 + MySQL
 + PostgreSQL
-
++ AWS
++ Docker
+  
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
 
 
