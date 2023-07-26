@@ -9,24 +9,22 @@
 
 
 🖥️ I’m currently working with
-+ Python
-+ Django
-+ Flask
-+ FastAPI
-+ JavaScript
-+ TypeScript
-+ React.js
-+ Next.js
-+ React Native
-+ Firebase
-+ Node.js
-+ Express.js
-+ MongoDB
-+ MySQL
-+ PostgreSQL
-+ AWS
-+ Docker
-  
++ Web Development using HTML, CSS, JS and React.js.
++ Programming Languages like Python, JavaScript, TypeScript, PHP, Java and Go.
++ Robotic Process Automation (RPA) using Python and currently working with Robocorp.
++ I like these Python frameworks: Django, Flask and FastAPI.
++ I'm always learning about React.js and Next.js, React Native with Expo. Using JavaScript or TypeScript.
++ PHP and Laravel are technologies that I hope building something soon!
++ I also like Node.js and Express.js.
++ I already worked in projects using Java and Spring.
++ I build back-end using Go, with GORM, Fiber or Gin. 
++ I'm using SQL and NoSQL databases like PostgreSQL, MySQL and MongoDB. I used Oracle DB before.
++ I'm working and learning Cloud Computing and DevOps using web services like AWS, Azure and Google Firebase
++ I'm studying and trying to use Docker in my projects
++ I'm working in personal projects like developing my own website that will be available soon!
++ Git and GitHub of course :D
++  Looking for more... 
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
 
 
