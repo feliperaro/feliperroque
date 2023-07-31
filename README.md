@@ -7,7 +7,7 @@
 + SQL & NoSQL Databases
 
 🖥️ I’m currently working with
-+ Web Development using HTML, CSS, JS, and React.js.
++ Web Development using HTML, CSS, JS, React.js, and Next.js.
 + Git and GitHub of course :D
 + Programming Languages like Python, JavaScript, TypeScript, PHP, Java, and Go.
 + Robotic Process Automation (RPA) using Python and currently working with Robocorp.
