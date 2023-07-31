@@ -8,10 +8,10 @@
 
 🖥️ I’m currently working with
 + Web Development using HTML, CSS, JS, React.js, and Next.js.
-+ Git and GitHub of course :D
 + Programming Languages like Python, JavaScript, TypeScript, PHP, Java, and Go.
 + Robotic Process Automation (RPA) using Python and currently working with Robocorp.
 + I like these Python frameworks: Django, FastAPI, and Flask.
++ Git and GitHub of course :D
 + I'm learning about React.js, Next.js, and React Native. Using JavaScript or TypeScript.
 + I also like Express.js and Node.js.
 + PHP and Laravel are technologies that I hope to build something soon!
