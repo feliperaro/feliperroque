@@ -1,4 +1,4 @@
-### Hi there 👋 🇧🇷
+### Hi there, I'm Felipe Roque :D 👋 🇧🇷
 
 🤖 Skills
 + Full Stack Web & Mobile Development
