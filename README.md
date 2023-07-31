@@ -16,12 +16,12 @@
 + I also like Express.js and Node.js.
 + PHP and Laravel are technologies that I hope to build something soon!
 + I already worked on projects using Java and Spring.
-+ Using Go language I worked with GORM, Fiber, and Gin. 
-+ I'm working with SQL and NoSQL databases like PostgreSQL, MySQL, and MongoDB. I had used Oracle DB before.
++ Once I used the Go language and I worked with GORM, Fiber, and Gin. 
++ Using SQL and NoSQL databases like PostgreSQL, MySQL, and MongoDB. I used Oracle DB before.
 + I'm working and learning Cloud Computing and DevOps using web services like AWS, Azure, and Google Firebase.
 + I'm studying and trying to use Docker containers in my projects. I like that!
-+ I'm working on personal projects like developing my website which will be available soon!
-
++ I'm building personal projects like developing my website which will be available soon!
+  
 + And I'm always looking for more... 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
