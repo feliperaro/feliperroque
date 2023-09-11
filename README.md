@@ -13,7 +13,7 @@
 + Programming Languages: Python, JavaScript, TypeScript, PHP, Java, and Go.
 + Robotic Process Automation (RPA) using Python and currently working with Robocorp.
 + Git and GitHub :D
-+ Using SQL and NoSQL databases like PostgreSQL, MySQL, and MongoDB. I used Oracle DB before.
++ Using SQL and NoSQL databases like PostgreSQL, MySQL, and MongoDB. I had worked with Oracle DB before.
 + I'm working and learning Cloud Computing using some cloud services like AWS, Azure, IBM Cloud and Google Cloud.
 + Container with Dockers.
 + I'm always looking for more... 
