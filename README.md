@@ -3,7 +3,7 @@
 🤖 Skills
 + Cloud & DevOps
 + Full Stack Developer
-+ Mobile & Web Developer
++ Mobile & Web Development
 + RPA (Robotic Process Automation) using Python
 + SQL & NoSQL Databases
 
