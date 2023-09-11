@@ -20,7 +20,7 @@
   
 + Building projects that will be available soon!
 
-![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
+![github stats](https://github-readme-stats.vercel.app/api?username=feliperroque&show_icons=true&theme=merko)
 
 
 <!--
