@@ -1,28 +1,24 @@
 ### Hi there! I'm Felipe Roque 👋 🇧🇷
 
 🤖 Skills
-+ Full Stack Web & Mobile Development
 + Cloud & DevOps
++ Full Stack Developer
++ Mobile & Web Developer
 + RPA (Robotic Process Automation) using Python
 + SQL & NoSQL Databases
 
 🖥️ I’m currently working with
-+ Web Development using HTML, CSS, JS, React.js, and Next.js.
-+ Programming Languages like Python, JavaScript, TypeScript, PHP, Java, and Go.
++ Full Stack Web Development using HTML, CSS, JS, React, Node, Express.js and MongoDB.
++ I like these other frameworks as well: Django, Flask, and Spring.
++ Programming Languages: Python, JavaScript, TypeScript, PHP, Java, and Go.
 + Robotic Process Automation (RPA) using Python and currently working with Robocorp.
-+ I like these Python frameworks: Django, FastAPI, and Flask.
-+ Git and GitHub of course :D
-+ I'm learning about React.js, Next.js, and React Native. Using JavaScript or TypeScript.
-+ I also like Express.js and Node.js.
-+ PHP and Laravel are technologies that I hope to build something soon!
-+ I already worked on projects using Java and Spring.
-+ Once I used the Go language and I worked with GORM, Fiber, and Gin. 
++ Git and GitHub :D
 + Using SQL and NoSQL databases like PostgreSQL, MySQL, and MongoDB. I used Oracle DB before.
-+ I'm working and learning Cloud Computing and DevOps using web services like AWS, Azure, and Google Firebase.
-+ I'm studying and trying to use Docker containers in my projects. I like that!
-+ I'm building personal projects like developing my website which will be available soon!
++ I'm working and learning Cloud Computing using some cloud services like AWS, Azure, IBM Cloud and Google Cloud.
++ Container with Dockers.
++ I'm always looking for more... 
   
-+ And I'm always looking for more... 
++ Building projects that will be available soon!
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FehRoque&show_icons=true&theme=merko)
 
