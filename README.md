@@ -1,7 +1,7 @@
 ### Hi there! I'm Felipe Roque 👋 🇧🇷
 
 🤖 Skills
-+ Full Stack Developer
++ Full Stack Development
 + Mobile & Web Development
 + RPA (Robotic Process Automation) using Python
 + SQL & NoSQL Databases
