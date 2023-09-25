@@ -1,11 +1,11 @@
 ### Hi there! I'm Felipe Roque 👋 🇧🇷
 
 🤖 Skills
-+ Cloud & DevOps
 + Full Stack Developer
 + Mobile & Web Development
 + RPA (Robotic Process Automation) using Python
 + SQL & NoSQL Databases
++ Cloud & DevOps
 
 🖥️ I’m currently working with
 + Full Stack Web Development using HTML, CSS, JS, React, Node, Express.js and MongoDB.
