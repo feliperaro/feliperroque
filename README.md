@@ -8,17 +8,16 @@
 + Cloud & DevOps
 
 🖥️ I’m currently working with
-+ Full Stack Web Development using HTML, CSS, JS, React, Node, Express.js and MongoDB.
-+ I like these other frameworks as well: Django, Flask, and Spring.
-+ Programming Languages: Python, JavaScript, TypeScript, PHP, Java, and Go.
-+ Robotic Process Automation (RPA) using Python and currently working with Robocorp.
++ Programming Languages: Python, JavaScript, TypeScript, Java, C#, Go, and PHP.
++ Web Development using HTML, CSS, JS, React, and Next.js.
++ Node, Express.js, Python, Django, Flask, FastAPI, Java, and Spring.
++ Robotic Process Automation (RPA) using Python.
 + Git and GitHub :D
-+ Using SQL and NoSQL databases like PostgreSQL, MySQL, and MongoDB. I had worked with Oracle DB before.
-+ I'm working and learning Cloud Computing using some cloud services like AWS, Azure, IBM Cloud and Google Cloud.
-+ Container with Dockers.
++ SQL & NoSQL databases: PostgreSQL, MySQL, Oracle DB, and MongoDB.
++ Cloud Computing: AWS, Azure, IBM Cloud, and Google Cloud.
++ Docker 🐳.
 + I'm always looking for more... 
-  
-+ Building projects that will be available soon!
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=feliperroque&show_icons=true&theme=merko)
 
