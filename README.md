@@ -1,19 +1,19 @@
 ### Hi there! I'm Felipe 👋 🇧🇷
 
 🤖 Skills
-+ Full Stack Development
-+ Mobile & Web Developer
++ Full Stack Web & Mobile Developer
 + RPA (Robotic Process Automation) Developer using Python
 + SQL & NoSQL Databases
 + Cloud & DevOps
 
 🖥️ I’m currently working with
 + Programming Languages: Python, JavaScript, TypeScript, Java, C#, Go, and PHP.
-+ Web Development using HTML, CSS, JS, React, and Next.js.
-+ Node, Express.js, Python, Django, Flask, FastAPI, Java, and Spring.
++ Mobile Development working with React Native, Expo and Firebase.
++ Web Development using HTML, CSS, JS, Bootstrap, Tailwingd CSS, React, and Next.js.
++ NodeJS, Express, Python, Django, Flask, FastAPI, Java, and Spring.
 + Robotic Process Automation (RPA) using Python.
-+ Git and GitHub :D
 + SQL & NoSQL databases: PostgreSQL, MySQL, Oracle DB, and MongoDB.
++ Git and GitHub :D
 + Cloud Computing: AWS, Azure, IBM Cloud, and Google Cloud.
 + Docker 🐳.
 + I'm always looking for more... 
